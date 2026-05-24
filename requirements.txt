@@ -1,0 +1,11 @@
+numpy
+pandas
+datasets
+transformers
+scikit-learn
+nltk
+dotenv
+evaluate
+quickumls
+sacrebleu
+rouge_score
