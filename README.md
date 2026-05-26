@@ -1,6 +1,7 @@
 # MedSynth Dial2Note — SOAP Note Generation
 
-Automatic generation of structured SOAP clinical notes from doctor–patient dialogues, submitted to the **SMM4H 2026 Shared Task**.
+Automatic generation of structured SOAP clinical notes from doctor–patient dialogues, submitted to the **SMM4H 2026 Shared Task**.  
+The original paper containing the system description, the ablation studies and the obtained results can be seen under ```Patient2Paper_SMM4H_26_Retrieval-Augmented_Few-Shot_Generation_for_Clinical_Note_Synthesis.pdf```
 
 ---
 
